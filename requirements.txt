@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib.pyplot
+seaborn
+sklearn
+sklearn.model_selection
+sklearn.linear_model #Logistic Regression
+sklearn.svm # support vector machine classifier
+sklearn.neighbors
+sklearn.metrics #model evaluation
